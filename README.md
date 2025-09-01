@@ -1,39 +1,35 @@
-🌌 Mundo Nyxvalis - Projetos Java
+# 🌙 Mundo Nyxvalis
 
-Bem-vinda(o) ao Mundo Nyxvalis, um repositório de projetos Java inspirados no curso Java 10x.
-Aqui você treina programação do nível iniciante, explorando loops, arrays, condicionais e lógica de jogos básicos, com um toque místico ✨.
+Bem-vindo ao **Mundo Nyxvalis**, meu repositório de projetos de estudo em Java!  
+Aqui você encontrará meus experimentos práticos, desafios e jogos, organizados por nível de dificuldade.
 
-🔮 Projetos Concluídos (Nível Iniciante)
-1. Oráculo Simples 🌙
+---
 
-Objetivo: Criar um oráculo que responde perguntas com respostas aleatórias.
+## 📚 Estrutura dos Níveis
 
-Aprendizado: Arrays, Scanner, lógica condicional.
+- **Iniciante**: Projetos básicos usando variáveis, condicionais, loops, arrays e scanner.  
+  Exemplos:  
+  - Oráculo Simples  
+  - Caçador Lunar
 
-Funcionalidades:
+- **Intermediário**: Projetos usando orientação a objetos, métodos, herança, interfaces e construtores.  
+  (Em breve!)
 
-Recebe a pergunta do usuário
+- **Avançado**: Projetos mais complexos, integrando coleções, generics, arquivos, e lógica avançada.  
+  (Em breve!)
 
-Responde com frases como “Sim”, “Não”, “Talvez”, “O destino dirá…”
+---
 
-Código simples e direto, ideal para praticar lógica básica em Java
+## 🚀 Como Rodar os Projetos
 
-2. Caçador Lunar 🌕
+1. Clone este repositório:  
+```bash
+git clone git@github.com:hydemaria/MundoNyxvalis.git
 
-Objetivo: Jogo interativo onde você enfrenta missões e gerencia vida e honra.
+2. Abra o projeto na sua IDE favorita (IntelliJ, Eclipse, VS Code, etc).
 
-Aprendizado: Loops, arrays, condicionais, random, controle de fluxo.
+3. Navegue até a pasta do projeto desejado, por exemplo:
 
-Funcionalidades:
+/MundoNyxvalis/OraculoSimples
 
-Escolha de missões: Lobo, Clareira, Ervas Misteriosas
-
-Missões alteram pontos de vida ou honra
-
-Resultados aleatórios para desafios arriscados
-
-Loop principal controlando o fluxo do jogo
-
-⚡ Como rodar
-
-Clone este repositório:
+4. Compile e rode o arquivo principal (geralmente Main.java ou CacadorLunar.java).
